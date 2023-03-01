@@ -4,4 +4,6 @@ import {anyfoo} from "./importing";
 
 console.log('123>>>>>');
 
-anyfoo(7777);
+anyfoo(777799999);
+
+document.body.innerHTML='ddddddddddddddddddddddddddddd';
